@@ -5,7 +5,7 @@
 ##  URL
 [https://ymizomasa.com/](https://ymizomasa.com/)
 
-## ⏱ 制作時間
+##  制作時間
 - **デザイン（Figma）**: 20時間
 - **フロントエンド（HTML/CSS/JS）**: 15時間
 - **WordPress構築**: 3時間
